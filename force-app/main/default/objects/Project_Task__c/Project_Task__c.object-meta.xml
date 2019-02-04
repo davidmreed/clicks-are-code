@@ -51,13 +51,13 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>Project Member</label>
+    <label>Project Task</label>
     <nameField>
-        <displayFormat>PM-{00000}</displayFormat>
-        <label>Project Member Name</label>
+        <displayFormat>PT-{00000}</displayFormat>
+        <label>Project Task Name</label>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Project Members</pluralLabel>
+    <pluralLabel>Project Tasks</pluralLabel>
     <searchLayouts/>
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
