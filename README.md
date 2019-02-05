@@ -10,12 +10,12 @@ You’re going to start with the core of a small application, supplied in source
 
 We hope you’ve completed this work prior to the workshop to get your computer ready to participate. If you didn’t already, please try to complete these steps during the talk and demo portions of the program so you’ll be ready to get hands-on during the workshop.
 
-- Sign up for a new Salesforce Developer Edition (https://developer.salesforce.com/signup) or use an existing one if you wish. Do not use your Production Salesforce account.
- - In your Developer Edition, turn on Dev Hub (https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_enable_devhub.htm)
- - Sign up for a free GitHub account (https://github.com/join) and validate your email.
- - Install the Salesforce DX tools (https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm#sfdx_setup_install_cli)
- - Install Visual Studio Code (https://code.visualstudio.com)
- - Install the Salesforce DX extension pack in Visual Studio Code (https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode)
+1. Install the Salesforce CLI tools (https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm#sfdx_setup_install_cli)
+1. Sign up for a new Salesforce Developer Edition (https://developer.salesforce.com/signup) or use an existing one if you wish. Do not use your Production Salesforce account.
+1. In your Developer Edition, turn on Dev Hub (https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_enable_devhub.htm)
+1. Sign up for a free GitHub account (https://github.com/join) and validate your email.
+1. Install Visual Studio Code (https://code.visualstudio.com)
+1. Install the Salesforce DX extension pack in Visual Studio Code (https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode)
 
 You may need to close and reopen Visual Studio Code after completing the pre-work above before you begin. 
 
