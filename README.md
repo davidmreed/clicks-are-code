@@ -10,6 +10,7 @@ You’re going to start with the core of a small application, supplied in source
 
 We hope you’ve completed this work prior to the workshop to get your computer ready to participate. If you didn’t already, please try to complete these steps during the talk and demo portions of the program so you’ll be ready to get hands-on during the workshop.
 
+1. Install Git (https://git-scm.com/) if you have not already done so.
 1. Install the Salesforce CLI tools (https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm#sfdx_setup_install_cli)
 1. Sign up for a new Salesforce Developer Edition (https://developer.salesforce.com/signup) or use an existing one if you wish. Do not use your Production Salesforce account.
 1. In your Developer Edition, turn on Dev Hub (https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_enable_devhub.htm)
