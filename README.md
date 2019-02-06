@@ -2,6 +2,15 @@
 
 This repository is for the workshop program for ["Clicks, Not Code" to “Clicks are Code”: Add Git to your #Admin Superpowers](https://www.meetup.com/Salesforce-Philly/events/258124509/) with David Reed and Andrés Catalán. Participants should fork this repository to join in the workshop. The full details for participants are below.
 
+## Getting the Final Version
+
+I've updated this repository to merge in all of the participant contributions. I've added page layouts and permissions so that, once you assign yourself the permission set, you can interact with the final application. If you'd like to work with the final version in a scratch org, I recommend cloning the original repo or creating a new fork for simplicity.
+
+You can update your existing fork and pull the changes from there to your local copy, but you will need to go to the command line to do it that way. Instructions on GitHub:
+
+ 1. [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+ 1. [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
+
 ## Participant Handout
 
 You’re going to start with the core of a small application, supplied in source code form. You’ll be given a sheet with a small, administrative Salesforce task to achieve. Your goal is to push the source you’re given into a new Salesforce DX scratch org, perform your task, retrieve your updated source, and commit it to Git to share it with your team.
