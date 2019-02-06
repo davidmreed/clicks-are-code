@@ -11,6 +11,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Project_Member__c.Member_Role__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Project_Member__c.Project_Lead__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -27,6 +32,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Project__c.Git_Repository__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Project__c.Industry_Vertical__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
