@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Total_In_Progress_Tasks__c</fullName>
+    <description>I was assigned this Task out of protest for the Git Project.</description>
+    <externalId>false</externalId>
+    <label>Total In Progress Tasks</label>
+    <summaryFilterItems>
+        <field>Project_Task__c.Status__c</field>
+        <operation>equals</operation>
+        <value>In Progress</value>
+    </summaryFilterItems>
+    <summaryForeignKey>Project_Task__c.Project__c</summaryForeignKey>
+    <summaryOperation>count</summaryOperation>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>
