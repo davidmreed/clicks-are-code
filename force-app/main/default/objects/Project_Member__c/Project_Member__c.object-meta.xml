@@ -53,11 +53,12 @@
     <enableStreamingApi>true</enableStreamingApi>
     <label>Project Member</label>
     <nameField>
+        <displayFormat>PM-{00000}</displayFormat>
         <label>Project Member Name</label>
-        <type>Text</type>
+        <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Project Members</pluralLabel>
     <searchLayouts/>
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
